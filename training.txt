@@ -1,0 +1,9 @@
+blue gloves y
+blue hat y
+cautious cat y
+new hat y
+cautious cat y
+cautious cat n
+cautious hat n
+new gloves n
+new cat n
